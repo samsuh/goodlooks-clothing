@@ -1,4 +1,4 @@
-import '../../components/category-item/category-item.component'
+import '../../components/directory-item/directory-item.component'
 import Directory from '../../components/directory/directory.component'
 import { Outlet } from 'react-router-dom'
 
