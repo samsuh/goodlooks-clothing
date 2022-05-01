@@ -1,6 +1,6 @@
 import './product-card.styles.scss'
 import Button from '../button/button.component'
-import { useContext } from 'react'
+import React, { useContext } from 'react'
 import { CartContext } from '../../contexts/cart.context'
 
 const ProductCard = ({ product }) => {

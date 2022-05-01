@@ -1,3 +1,4 @@
+import React from 'react'
 import '../../components/directory-item/directory-item.component'
 import Directory from '../../components/directory/directory.component'
 import { Outlet } from 'react-router-dom'
